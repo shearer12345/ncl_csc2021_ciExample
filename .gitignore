@@ -1,6 +1,7 @@
 #ignore gradle stuff
 .gradle
 build/
+bin/
 
 #ignore eclipse stuff
 .classpath
