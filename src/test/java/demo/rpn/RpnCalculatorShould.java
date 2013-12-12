@@ -15,9 +15,4 @@ public class RpnCalculatorShould {
         rpnCalculator.operator("+");
         assertEquals(13, rpnCalculator.xRegister());
     }
-    
-    @Test 
-    public void alwaysFailTest() {
-    	fail();
-    }
 }
