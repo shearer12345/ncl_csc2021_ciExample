@@ -4,4 +4,4 @@ Continuous Integration example, using travisCI, after a post-commit hook on a gi
 
 The actual source is setup to build using Gradle
 
-Note: this file is support for a delivered lecture that walks through setting this up - those instuctions aren't (presently) here
+Note: this file is support for a delivered lecture that walks through setting this up - those instuctions aren't (presently) here, but is based strongly on Brett Schuchert guide at https://schuchert.wikispaces.com/gradle.GettingStarted - this means that this is licensed the same - under Creative Commons Attribution-ShareAlike 3.0 Unported (http://creativecommons.org/licenses/by-sa/3.0/)
