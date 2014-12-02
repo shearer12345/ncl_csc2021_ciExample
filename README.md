@@ -1,6 +1,6 @@
 #ncl_csc2021_ciExample
 
-![Build Status](https://travis-ci.org/shearer12345/ncl_csc2021_ciExample.svg?branch=master)
+[![Build Status](https://travis-ci.org/shearer12345/ncl_csc2021_ciExample.svg?branch=master)](https://travis-ci.org/shearer12345/ncl_csc2021_ciExample)
 
 Continuous Integration example, using travisCI, after a post-commit hook on a git repository setup.
 
