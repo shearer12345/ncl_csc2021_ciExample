@@ -12,7 +12,6 @@ public class RpnCalculatorShould {
         rpnCalculator.digit(4);
         rpnCalculator.enter();
         rpnCalculator.digit(9);
-        
         rpnCalculator.operator("+");
         assertEquals(15, rpnCalculator.xRegister());
     }
